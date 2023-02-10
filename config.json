@@ -1,35 +1,28 @@
 {
     "bot": {
-        "owner": "Kendi discord id giriniz",
-        "prefix": "bot ön ek giriniz",
-        "BotStatus": "Bilmem ne kalp MERMKGEQKRGERG",
-        "BotFooter": "Bot alt kısım",
+        "owner": "786982795402412032",
+        "prefix": ".",
+        "BotStatus": "Developed By Machine",
+        "BotFooter": "Developed By Machine",
         "cooldown": 8
     },
     "penals": {
         "ban": {
-            "staff": "Ban yetkilisi id",
-            "log": "Ban log id",
+            "staff": "1072862757206102016",
+            "log": "1072863009308938240",
             "limit": 3
         },
         "jail": {
-            "staff": "Jail yetkili id",
-            "roles": "Cezalı rolü id",
-            "log": "Ceza log id",
+            "staff": "1072862756052680736",
+            "roles": "1072862780241227818",
+            "log": "1072863012286910524",
             "limit": 5
         },
         "mute": {
-            "staff": "Mute yetkilisi id",
-            "roles": "Susturulmuş kişi id",
-            "log": "Mute log id",
+            "staff": "1072862758443429950",
+            "roles": "1072862753812910111",
+            "log": "1072863005391470662",
             "limit": 5
-        },
-        "warn": {
-            "staff": "Warn yetkilisi id",
-            "log": "Warn log id"
-        },
-        "transport": {
-            "staff": "Ta"
         },
         "points": {
             "mutepoints": "10",
@@ -39,50 +32,50 @@
         }
     },
     "logs": {
-        "taglog": "Tag log id",
-        "rollog": "Rol log id",
-        "messagelog": "Mesaj log id",
-        "seslog": "Ses log id"
+        "taglog": "1072862981718818906",
+        "rollog": "1072881100625559622",
+        "messagelog": "1072862976253628436",
+        "seslog": "1072862979097370714"
     },
     "roles": {
-        "vip": "Vip rol id",
-        "sponsor": "Sponsor rol id",
-        "müzisyen": "Müzisyen rol id",
-        "team": "Taglı rol id"
+        "vip": "1072862766194495489",
+        "sponsor": "1072862764734877696",
+        "müzisyen": "1072862772272054325",
+        "team": "1072862768933376030"
     },
     "channels": {
-        "chat": "Chat kanalı id",
-        "voicechannel": "Bot ses kanalı id",
-        "welcomechannel": "Hoş geldin kanalı id",
-        "rules": "Kurallar kanalı id"
+        "chat": "1072862939599609897",
+        "voicechannel": "1072863029332549644",
+        "welcomechannel": "1072862895760736306",
+        "rules": "1072862901414674533"
     },
     "registration": {
-        "unregistered": "Kayıtsız rol id",
-        "man": ["Erkek rol id", "2. Erkek rol id"],
-        "woman": ["Kadın rol id", "2. Kadın rol id"],
-        "yetkilialim": "Yetkili alim id",
-        "staff": "Register rol id",
-        "enaltyetkilirolü": "En alt yetkili rol id",
-        "GuilDTag": "Sunucu Tagınız",
-        "TagSymbol": "İsim ve yaş önüne koyulacak sembol",
-        "autonickname": "$ İsim | Yaş (Otomatik isim)",
+        "unregistered": "1072862777540100108",
+        "man": ["1072862775359062086"],
+        "woman": ["1072862776202113077"],
+        "yetkilialim": "1072862721684537414",
+        "staff": "1072862759563305041",
+        "enaltyetkilirolü": "1072862750415528086",
+        "GuilDTag": "Chy",
+        "TagSymbol": "|",
+        "autonickname": "Chy İsim | Yaş ",
         "symbol": "|",
-        "suspecios": "Şüpheli rol id",
-        "susoeciosnickname": "Şüpheli Hesap",
-        "oneman": "1. Erkek rolu",
-        "onewoman": "2. Kadın rolu",
+        "suspecios": "1072875458221330433",
+        "susoeciosnickname": "Chy Şüpheli Hesap",
+        "oneman": "1072862775359062086",
+        "onewoman": "1072862776202113077",
         "minage": 13, 
         "purchase": false
     },
     "Guild": {
-        "GuildID": "Sunucu id",
-        "GuilDName": "Sunucu Adınız",
-        "GuildOwnerRole": ["Sunucu owner id"]
+        "GuildID": "1071466031840755824",
+        "GuilDName": "Chy #646 #NewSeason",
+        "GuildOwnerRole": ["1072862717070815282"]
     },
     "emojis": {
-        "tada": "Emoji 1",
-        "yes": "Emoji 2",
-        "no": "Emoji 3"
+        "tada": "1073529887165517884",
+        "yes": "1073529887165517884",
+        "no": "1073529887165517884"
 
     }
 } 
